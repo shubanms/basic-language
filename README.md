@@ -1,2 +1,2 @@
-# basic-language
+# Basic-language
 Language using TypeScript
